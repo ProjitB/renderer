@@ -1,0 +1,4 @@
+Implementation of Graphics Rendering Pipeline from scratch in Rust.
+
+
+Inspired from: https://github.com/ssloy/tinyrenderer
